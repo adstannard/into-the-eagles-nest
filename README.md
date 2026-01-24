@@ -19,6 +19,16 @@ One of the best resources for the Amstrad CPC version is the french website [PC-
 **CPC Analyser**
 
 I'm working on macOS but some of the best tools I have seen are on Windows so running [Windows 11 VM via UTM](https://mac.getutm.app) to use [CPC Analyser](https://colourclash.co.uk/cpc-analyser/) . There is a good [Cheat finding with CPC Analyser](https://www.youtube.com/watch?v=oeHA8gAnf74) video on Youtube.
+
+
 ![CPC Analyser screenshot](CPC-Analyser.png)
+
+**Stop Emeny Respawn - Cheat**
+There are already cheats for infinte health, infinte ammo, infinite keys and to freeze enemies. I was keen to stop enemies respawning as always felt it detracted from the game when enemies could appear from "dead ends" or cleared rooms behind you.
+
+I looked for a counter that decreased from 5 and looped based on the need to check for respawn every 5 frames. The '''function_29CB''' seemed to be part of the respaen logic.
+
+
+
 ### Amiga ASM
 There is an [Amiga version ASM on Github](https://github.com/hitchhikr/eaglenest/blob/main/src/eagle.asm)
