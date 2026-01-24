@@ -23,15 +23,15 @@ I'm working on macOS but some of the best tools I have seen are on Windows so ru
 
 ![CPC Analyser screenshot](CPC-Analyser.png)
 
-**Stop Emeny Respawn - Cheat**
+**Stop Enemy Respawn - Cheat**
 
 There are already cheats for infinte health, infinte ammo, infinite keys and to freeze enemies. I was keen to stop enemies respawning as always felt it detracted from the game when enemies could appear from "dead ends" or cleared rooms behind you.
 
-I looked for a counter that decreased from 5 and looped based on the need to check for respawn every 5 frames. The '''function_29CB''' seemed to be part of the respaen logic.
+I looked for a counter that decreased from 5 and looped based on the need to check for respawn every 5 frames. The ```function_29CB``` seemed to be part of the respaen logic.
 
 ![function_29CB](function_29CB.png)
 
-
+Change from: **21** 42 00 35 C0 to: **C9** 42 00 35 C0 and the function will not run. Identify this sequence on the disk image and use a hex editor to edit to make a dsk with the no enemy respawn cheat.
 
 
 
