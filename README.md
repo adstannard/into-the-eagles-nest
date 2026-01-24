@@ -13,7 +13,7 @@ There are many platforms that Into The Eagles Nest was released on and these are
 ### Amstrad CPC
 One of the best resources for the Amstrad CPC version is the french website [PC-Power.com](https://www.cpc-power.com/index.php?page=detail&num=1173) including a comparison of versions, maps and tape and disc images.
 * Disk: 30 June 1987
-* Disk: 17 Nov 1987
+* Disk: 27 Nov 1987
 * Tape
 
 **CPC Analyser**
