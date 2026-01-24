@@ -16,5 +16,9 @@ One of the best resources for the Amstrad CPC version is the french website [PC-
 * Disk: 17 Nov 1987
 * Tape
 
+**CPC Analyser**
+
+I'm working on macOS but some of the best tools I have seen are on Windows so running [Windows 11 VM via UTM](https://mac.getutm.app) to use [CPC Analyser](https://colourclash.co.uk/cpc-analyser/) . There is a good [Cheat finding with CPC Analyser](https://www.youtube.com/watch?v=oeHA8gAnf74) video on Youtube.
+
 ### Amiga ASM
 There is an [Amiga version ASM on Github](https://github.com/hitchhikr/eaglenest/blob/main/src/eagle.asm)
