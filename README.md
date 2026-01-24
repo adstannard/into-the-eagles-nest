@@ -8,6 +8,25 @@ The 1987 Pandora 8-bit game Into The Eagle's Nest Amstrad CPC looking at disasse
 
 There are many platforms that Into The Eagles Nest was released on and these are compared on [this retro gaming blog](https://frgcb.blogspot.com/2017/04/into-eagles-nest-pandora-1987.html) .
 
+8-bit:
+
+* Amstrad CPC
+* ZX Spectrum
+* Commadore 64
+* Apple II
+* IBM-PC
+
+16-bit:
+
+* Atari ST
+* Commadore Amiga
+
+### Amstrad CPC
+
+* Disk: 30 June 1987
+* Disk: 17 Nov 1987
+* Tape
+
 ### Amiga ASM
 
 There is an [Amiga version ASM on Github](https://github.com/hitchhikr/eaglenest/blob/main/src/eagle.asm)
