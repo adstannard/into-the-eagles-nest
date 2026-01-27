@@ -24,6 +24,7 @@ Floor2: 7040-7930
 
 **BLOCKS**
 
+Block 0x01 - 5BD8 start  ->  Black 0x02 - 5BFC end
 Block 0x03 - 5E00 start  ->  Block 0x22 - 5FFC end  
 Block 0x23 - 5000 start  ->  Block 0x42 - 51FC end  
 Block 0x43 - 5400 start  ->  Block 0x62 - 55FC end  
