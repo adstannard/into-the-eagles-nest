@@ -11,7 +11,7 @@ The Blocks are then stored in 16 bytes representing each of the tiles.
 
 For example block 0x05 is a solid 4x4 16 tile area of castle wall. That block is made up of tiles 0x01 and 0x02 that are the 2 stone wall blocks:
 
-01  01  01  01
-02  02  02  02
-01  01  01  01
-02  02  02  02
+01  01  01  01  
+02  02  02  02  
+01  01  01  01  
+02  02  02  02  
