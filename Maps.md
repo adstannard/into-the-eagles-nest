@@ -16,8 +16,15 @@ For example block 0x05 is a solid 4x4 16 tile area of castle wall. That block is
 01  01  01  01  
 02  02  02  02  
 
-Disk Image t4
-Basement: 6A70-725F
-Ground: 7260-684F
-Floor1: 6850-704F
-Floor2: 7040-7930
+**Disk Image t4**  
+Basement: 6A70-725F  
+Ground: 7260-684F  
+Floor1: 6850-704F  
+Floor2: 7040-7930  
+
+**BLOCKS**
+
+Block 0x03 - 5E00 start  ->  Block 0x22 - 5FFC end  
+Block 0x23 - 5000 start  ->  Block 0x42 - 51FC end  
+Block 0x43 - 5400 start  ->  Block 0x62 - 55FC end  
+Block 0x63 - 5830 start  ->  Block 0x7F - 59CC end  
