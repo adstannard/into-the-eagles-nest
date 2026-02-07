@@ -40,4 +40,4 @@ There is an [Amiga version ASM on Github](https://github.com/hitchhikr/eaglenest
 https://github.com/hitchhikr/eaglenest/tree/main
 
 
-![Map details](Maps.md) between the Amiga and Amstrad CPC the detail for the map of blocks aand block layout mean castle 1 on Amiga is the same as the Amstrad CPC map.
+[Map details](Maps.md) between the Amiga and Amstrad CPC the detail for the map of blocks aand block layout mean castle 1 on Amiga is the same as the Amstrad CPC map.
