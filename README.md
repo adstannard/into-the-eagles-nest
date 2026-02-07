@@ -39,3 +39,5 @@ Change from: **21** 42 00 35 C0 to: **C9** 42 00 35 C0 and the function will not
 There is an [Amiga version ASM on Github](https://github.com/hitchhikr/eaglenest/blob/main/src/eagle.asm)
 https://github.com/hitchhikr/eaglenest/tree/main
 
+
+![Map details](Maps.md) between the Amiga and Amstrad CPC the detail for the map of blocks aand block layout mean castle 1 on Amiga is the same as the Amstrad CPC map.
